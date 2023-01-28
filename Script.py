@@ -105,6 +105,24 @@ This module only works for my admins
 ★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
 ★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
 ★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
+    DISCLAIMER_TXT = """
+DISCLAIMER NOTE‼️:
+
+- @Sanufilterv1_bot is an Open Source Project.
+
+All the files in this bot are freely available on the internet or posted by somebody else. 
+
+This bot is indexing files which are already uploaded on Telegram for easy of searching, We respect all the copyright laws and works in compliance with DMCA and EUCD. 
+
+If anything is against law please contact us so that it can be removed asap. 
+
+It is forbidden to download, stream, reproduce, or by any means, share, or consume, content without explicit permission from the content creator or legal copyright holder. 
+
+If you believe this bot is violating your intellectual property, contact the respective channels for removal. 
+
+The Bot does not own any of these contents, it only index the files from telegram. 
+
+For any content removal contact admin it will be remove instantly """
     LOG_TEXT_G = """#𝐍𝐞𝐰𝐆𝐫𝐨𝐮𝐩
     
 <b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
@@ -116,3 +134,4 @@ This module only works for my admins
 <b>᚛› 𝐈𝐃 - <code>{}</code></b>
 <b>᚛› 𝐍𝐚𝐦𝐞 - {}</b>
 """
+    
